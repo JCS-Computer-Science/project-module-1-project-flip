@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["build"],{d29d:function(e,n,t){"use strict";t.r(n);var d=t("7a23"),c={class:"about"},i=Object(d["e"])("h1",null,"This is the build page",-1),s=[i];function u(e,n,t,i,u,a){return Object(d["q"])(),Object(d["d"])("div",c,s)}var a={},b=t("6b0d"),o=t.n(b);const r=o()(a,[["render",u]]);n["default"]=r}}]);
+//# sourceMappingURL=build.daa54492.js.map

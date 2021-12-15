@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["signup"],{"34c3":function(n,e,s){"use strict";s.r(e);var t=s("7a23"),c={class:"about"},i=Object(t["e"])("h1",null,"This is the signup page",-1),u=[i];function a(n,e,s,i,a,o){return Object(t["q"])(),Object(t["d"])("div",c,u)}var o={},p=s("6b0d"),r=s.n(p);const b=r()(o,[["render",a]]);e["default"]=b}}]);
+//# sourceMappingURL=signup.50277926.js.map

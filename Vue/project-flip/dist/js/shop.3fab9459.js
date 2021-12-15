@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["shop"],{"0fa5":function(e,n,s){"use strict";s.r(n);var t=s("7a23"),a={class:"about"},c=Object(t["e"])("h1",null,"This is the shop page",-1),o=[c];function i(e,n,s,c,i,p){return Object(t["q"])(),Object(t["d"])("div",a,o)}var p={},r=s("6b0d"),u=s.n(r);const b=u()(p,[["render",i]]);n["default"]=b}}]);
+//# sourceMappingURL=shop.3fab9459.js.map

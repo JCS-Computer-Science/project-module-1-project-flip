@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["login"],{a55b:function(n,e,t){"use strict";t.r(e);var a=t("7a23"),c={class:"about"},i=Object(a["e"])("h1",null,"This is the login page",-1),o=[i];function s(n,e,t,i,s,b){return Object(a["q"])(),Object(a["d"])("div",c,o)}var b={},r=t("6b0d"),u=t.n(r);const d=u()(b,[["render",s]]);e["default"]=d}}]);
+//# sourceMappingURL=login.4a5e01c5.js.map
