@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as o,b as r}from"./vendor.63d0fee4.js";const s={},c={class:"text-center underline text-3xl font-bold"},n=r("h1",null,"This is the cart page",-1),a=[n];function _(d,i){return t(),o("div",c,a)}var p=e(s,[["render",_]]);export{p as default};
