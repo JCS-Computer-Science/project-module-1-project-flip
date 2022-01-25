@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as t,c as r}from"./vendor.63d0fee4.js";const o={},c={class:"text-center underline text-3xl font-bold"};function n(s,d){return t(),r("h1",c," This is the Build Page ")}var a=e(o,[["render",n]]);export{a as default};
